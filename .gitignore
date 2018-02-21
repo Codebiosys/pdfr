@@ -64,7 +64,9 @@ typings/
 # Build directories contents
 build/*
 !build/.gitkeep
-dist/
+
+# TODO: re-add when package is published to NPM
+#dist/
 
 # pesky MacOS hidden files
 .DS_Store
