@@ -1,0 +1,7 @@
+# Files to not include in NPM distributed package
+
+bin/
+build/
+example/
+lib/
+.*

@@ -64,6 +64,7 @@ typings/
 # Build directories contents
 build/*
 !build/.gitkeep
+dist/
 
 # pesky MacOS hidden files
 .DS_Store

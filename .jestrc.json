@@ -5,7 +5,6 @@
     "**/*.{js,jsx}",
     "!**/index.{js,jsx}",
     "!**/node_modules/**",
-    "!**/build/**",
     "!**/dist/**"
   ],
   "coverageDirectory": "./build/coverage",
